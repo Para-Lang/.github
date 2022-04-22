@@ -22,7 +22,7 @@ For in-depth information about the project and how to get started, visit our doc
 
 ## Development
 
-To develop on the Para Project, you may contribute to the [main repo containing the compiler implementation](https://github.com/Para-Lang/para-compiler) or one of the following side-repos of Para Language:
+To develop on the Para Project, you may contribute to the [main repo containing the compiler implementation](https://github.com/Para-Lang/para-compiler) or one of the following side-repos:
 
 - [Para Base Library](https://github.com/Para-Lang/Para-Base-Library) - The Para Base Library written in C. Provides core functionality, types and macros for the language.
 - [Para Extension Library](https://github.com/Para-Lang/Para-Extension-Library) - The Para Extension Library written in C and Para. (Reserved repository - Empty for now)
