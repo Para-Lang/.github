@@ -19,3 +19,22 @@
 ## Docs
 
 For in-depth information about the project and how to get started, visit our docs [here](https://para.readthedocs.io/en/latest/?badge=latest).
+
+## Development
+
+To develop on the Para Project, you may contribute to the [main repo containing the compiler implementation](https://github.com/Para-Lang/para-compiler) or one of the following side-repos of Para Language:
+
+- [Para Base Library](https://github.com/Para-Lang/Para-Base-Library) - The Para Base Library written in C. Provides core functionality, types and macros for the language.
+- [Para Extension Library](https://github.com/Para-Lang/Para-Extension-Library) - The Para Extension Library written in C and Para. (Reserved repository - Empty for now)
+
+For more info on development for the core Python API and compiler, you may go
+[here](https://github.com/Para-Lang/Para/blob/main/DEVELOPMENT.md).
+
+## Disclaimer
+
+Para is not intended as a language for production code or professional usage
+as of now. It is for now solely a free-time/college project.
+
+This also means that issues or bugs while running can likely occur, and it's
+not a stable or production-ready language as of the point of writing.
+(*2022-01-25*).
